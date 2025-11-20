@@ -1,7 +1,6 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.10.35027.167
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11217.181 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SAM_Psychrometrics", "SAM_Psychrometrics", "{4FDEDAD6-FCEC-4426-9A3B-086BF3C99CC0}"
 EndProject
@@ -10,6 +9,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAM.Core.Grasshopper.Psychrometrics", "Grasshopper\SAM.Core.Grasshopper.Psychrometrics\SAM.Core.Grasshopper.Psychrometrics.csproj", "{BFC3AA9F-B5C8-46CD-9C19-2430AEAEC4F0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAM.Core.Psychrometrics", "SAM_Psychrometrics\SAM.Core.Psychrometrics\SAM.Core.Psychrometrics.csproj", "{19F540DD-634A-4252-8631-74DD906917D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2B54F3C9-E312-4BE1-99E3-E7BAC3C4FF8C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
